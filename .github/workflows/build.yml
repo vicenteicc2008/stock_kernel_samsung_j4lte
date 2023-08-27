@@ -1,11 +1,11 @@
 on:
   push:
     branches:
-      - "master"
+      - "playngos"
 
   pull_request:
     branches:
-      - "master"
+      - "playngos"
 
 name: Build
 
